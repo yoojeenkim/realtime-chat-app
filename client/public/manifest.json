@@ -1,0 +1,9 @@
+{
+  "short_name": "realtime-chat-app",
+  "name": "Real-Time Chat App",
+  "icons": [],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
